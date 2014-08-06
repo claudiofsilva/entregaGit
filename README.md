@@ -17,3 +17,4 @@ Repositório para testes do modulo git Code Education
 12 - Adicionei o arquivo
 13 - Fiz commit 
 14 - Fiz o push
+15 - Criando release 0.1.0
